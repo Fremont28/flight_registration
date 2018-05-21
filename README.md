@@ -1,2 +1,2 @@
 # flight_registration
-Tracking where aircrafts are registered 
+Tracking where aircrafts are registered using JSON 
